@@ -1,1 +1,1 @@
-print 'Hello Stripe!'
+print 'Hello World and Stripe!'
